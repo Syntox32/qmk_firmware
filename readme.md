@@ -1,3 +1,16 @@
+
+# How-to
+
+Syntox32 keymap directory created in: /keyboards/dz60/keymaps/Syntox32
+
+Compile a firmware with your new keymap by typing: 
+```
+qmk compile -kb dz60 -km Syntox32
+```
+
+Flash firmware by typing>
+
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
